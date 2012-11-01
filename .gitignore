@@ -1,0 +1,7 @@
+/nbproject/private/
+
+#netbeans
+nbproject/*
+
+#ms git
+.gitattributes
